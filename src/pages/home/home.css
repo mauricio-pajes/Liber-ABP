@@ -1,0 +1,23 @@
+.home {
+    display: flex;
+}
+
+.pagination {
+    margin-top: 0.5rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.pagination a {
+    text-decoration: none;
+    color: #265771;
+    padding: 0.5rem;
+    border: 1px solid #265771;
+    margin: 0 1rem;
+}
+
+.pagination a:hover,
+.pagination a:active {
+    background-color: #265771;
+    color: #efebd3;
+}
